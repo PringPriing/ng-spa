@@ -1,2 +1,3 @@
 
+# A reference implementation for builing large scale AngularJS app is coming...
 
